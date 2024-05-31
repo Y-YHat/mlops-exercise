@@ -1,0 +1,51 @@
+Date,Amount,Location,Store,Fraudulent
+2020-03-16,222.72,Fleminghaven,Jones-Salazar,False
+2019-02-28,127.06,Stricklandmouth,Chavez-Sims,False
+2022-12-05,875.64,Richardbury,Montgomery LLC,False
+2009-10-05,524.37,Lake Brett,Lopez-Allen,False
+2002-11-06,152.01,Coopermouth,Miller-Benton,False
+1971-01-30,922.91,West Larry,Brown-Williams,True
+1993-04-30,137.8,East Davidhaven,"Carter, Price and Alexander",False
+2016-01-03,117.36,Caseyland,Graham-White,False
+2001-02-05,622.8,New Cherylville,Sanchez Inc,False
+1994-03-04,698.39,Wilsonview,Jones and Sons,True
+1993-04-05,838.63,Jamesland,Campbell LLC,True
+1990-10-05,373.41,North Janetshire,Williams Inc,False
+1975-10-06,631.28,Robinsonside,"Gonzalez, Obrien and Wheeler",False
+1988-04-19,235.39,Hallland,Horne-Morrow,True
+2018-04-19,476.93,Phillipsville,"Day, Bauer and Coleman",True
+2012-01-23,760.14,East Sarahfurt,"Bailey, Glover and Martinez",True
+1982-05-20,404.41,North Heather,Lawrence-Davis,False
+1998-03-07,546.64,South Matthewside,Stark-Tucker,True
+2010-12-20,289.6,Lake Jillianton,"Richardson, Rivera and Campbell",True
+1975-12-11,448.49,East Cody,"Ross, Vaughn and Medina",True
+1979-06-17,960.79,Dawntown,"Osborne, Boone and Lawrence",False
+1987-07-09,697.9,Karenside,Bradley-Stein,True
+1981-06-25,789.84,Scottchester,"Cantu, Short and Moran",False
+1997-10-10,123.88,Danfurt,Fuentes-Castillo,False
+1970-01-18,217.98,Port Angelaville,Green-Mckay,False
+2023-09-03,997.73,East Joe,Green-Smith,True
+1994-11-05,6.39,Port Richardborough,Taylor-Jackson,True
+2012-11-01,481.73,Juliaton,Mason-Sullivan,False
+1997-08-31,771.55,Cherrymouth,Sexton-Hebert,True
+2017-04-03,472.56,Lake Richard,Harris-Howard,True
+2002-01-24,547.72,Beasleyborough,"Cooper, Green and Myers",True
+1999-02-24,56.04,Wallbury,Griffith and Sons,True
+2000-09-14,81.46,Lake Branditown,"Moore, Ritter and Gates",False
+2017-02-03,683.98,Martinhaven,Mcdonald-Johnson,False
+2023-10-18,482.78,Meganburgh,Thompson-Walker,False
+2015-08-09,945.98,Michaelside,Peters Inc,False
+2006-08-26,868.44,South Ryan,"Ferguson, Flowers and Torres",False
+1971-01-13,343.39,East Kathrynfort,Savage and Sons,False
+2020-12-06,350.47,Amandaville,"Simon, Anderson and Roth",True
+1977-11-25,98.15,Richardsonview,"Wilson, Stewart and Valenzuela",True
+2012-05-15,673.42,Smithshire,"Nelson, Baker and Clark",True
+1999-10-28,687.37,Port Robert,Johnson-Buchanan,False
+1979-08-03,486.72,Port Lindaview,"Cook, Vargas and Aguilar",False
+2003-03-15,970.96,Stevenshire,Harmon-Rodriguez,False
+2019-03-17,951.52,Laraville,"Green, Walker and Delgado",True
+2009-02-09,251.9,Nathanielland,Martin-Benjamin,True
+1994-03-18,953.13,Rodriguezchester,"Armstrong, Hudson and Chapman",True
+2016-03-17,468.51,East Staceyshire,Johnson-Banks,True
+2007-05-13,890.09,North Bruceland,"Scott, Boyle and Hicks",True
+2021-02-25,887.3,West Anthonyland,"Jackson, Nelson and Mcclure",True

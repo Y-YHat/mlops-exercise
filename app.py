@@ -3,10 +3,10 @@ import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import LabelEncoder
-# INSERT TEST COMMENT 
+# Insert test comment
 def load_data(filepath):
     return pd.read_csv(filepath)
-
+# another comment to test workflow again
 def preprocess_data(data):
     # Convert Date to datetime and extract Year, Month, Day
     data['Date'] = pd.to_datetime(data['Date'])
